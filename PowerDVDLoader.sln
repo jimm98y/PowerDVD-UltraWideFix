@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PowerDVDLoader", "PowerDVDLoader\PowerDVDLoader.vcxproj", "{5541A222-3E4D-44DC-A127-77095FE63713}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://lukasvolf.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PowerDVDLoader\\PowerDVDLoader.vcxproj
+		SccProjectName1 = PowerDVDLoader
+		SccLocalPath1 = PowerDVDLoader
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5541A222-3E4D-44DC-A127-77095FE63713}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5541A222-3E4D-44DC-A127-77095FE63713}.Debug|Win32.Build.0 = Debug|Win32
+		{5541A222-3E4D-44DC-A127-77095FE63713}.Release|Win32.ActiveCfg = Release|Win32
+		{5541A222-3E4D-44DC-A127-77095FE63713}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
